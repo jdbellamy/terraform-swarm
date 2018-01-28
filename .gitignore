@@ -1,0 +1,9 @@
+worker.token
+manager.token
+
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfvars
+
+account.json
